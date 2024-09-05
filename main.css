@@ -161,3 +161,64 @@ body{
     background: black   ;
     background-image: url(felix.jpg);
 }
+
+@media screen and (max-width: 1000px) {
+
+    .profile{
+        margin-left: 0px;
+        font-size: 60px;
+    }
+
+    .profile-subheading{
+        margin-left: 45px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .profile-summary {
+        display: none;
+    }
+
+    .square{
+        margin-left: 35px;
+    }
+
+    .experience{
+        margin-left: 0px;
+        background-color: transparent;
+    }
+
+    .experience:hover{
+        background-color: transparent;
+        color: white;
+    }
+
+    .skill{
+        background-color: transparent;
+    }
+
+    .skill:hover{
+        background-color: transparent;
+        color: white;
+    }
+
+    .education{
+        background-color: transparent;
+    }
+
+    .education:hover{
+        background-color: transparent;
+        color: white;
+    }
+
+    #c{
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 70px;
+        margin-bottom: 100px;
+    }
+
+    .contact{
+        text-align: center;
+    }
+}
