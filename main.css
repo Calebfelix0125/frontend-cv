@@ -1,0 +1,163 @@
+p{
+    text-align: center;
+}
+.profile {
+    margin-top: 35px;
+    margin-left: 15px;
+    margin-right: 50px;
+    margin-bottom: 150px;
+
+    color: #ef7206; 
+
+    padding: 50px;
+    padding-right: 50%;
+    border-radius: 30px; 
+    
+    font-size: 75px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    text-decoration: none;
+    text-align: left;
+    letter-spacing: 5px;
+    /* transition: .3s; */
+}
+
+.profile summary {
+    list-style: none;
+}
+
+.profile-subheading {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 27px;
+    text-align: left;
+    margin-bottom: 15px;
+    margin-top: 120px;
+    margin-left: 70px;
+}
+
+.profile-summary {
+    font-size: 25px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+}
+
+.square {
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 60px;
+    margin-bottom: 100px;
+
+
+    text-align: left;
+}
+
+.experience{
+    /* margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-bottom: 100px; */
+
+    color:#ef7206;
+    background-color: black;
+    opacity: 0.65;
+
+    padding: 15px;
+    padding-bottom: 1%;
+    border-radius: 30px;
+    width: 250px;
+    margin-right: 7px;
+
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-decoration: none;
+    text-align: left;
+
+    transition: 0.5s;
+    
+}
+
+.experience:hover {
+    background-color: white;
+    width: 300px;
+}
+
+.skill {
+    color:#ef7206;
+    background-color: black;
+    opacity: 0.65;
+
+    padding: 15px;
+    padding-bottom: 1%;
+    border-radius: 30px;
+    width: 250px;
+    margin-right: 7px;
+
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-decoration: none;
+    text-align: left;
+
+    transition: 0.5s;
+}
+
+.skill:hover {
+    background-color: white;
+}
+
+.education {
+    color:#ef7206;
+    background-color: black;
+    opacity: 0.65;
+
+    padding: 15px;
+    padding-bottom: 1%;
+    border-radius: 30px;
+    width: 250px;
+    margin-right: 7px;
+
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-decoration: none;
+    text-align: left;
+
+    transition: 0.5s;
+}
+
+.education:hover {
+    background-color: white;
+}
+
+#c{
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-bottom: 100px;
+}
+
+.contact {
+    color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.contact:hover {
+    color: #ef7206;
+}
+
+body{
+    background: black   ;
+    background-image: url(felix.jpg);
+}
